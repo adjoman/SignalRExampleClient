@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/adjothegreat/Projects/SignalRSample/SignalRSample/bin/Debug/net7.0-ios/iossimulator-x64/SignalRSample.app/libxamarin-dotnet-debug.dylib
